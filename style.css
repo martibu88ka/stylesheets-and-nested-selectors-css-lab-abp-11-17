@@ -10,7 +10,7 @@ header{
   border-bottom: 1px solid #cccccc;
 }
 header nav{
-  floating:left;
+  float:right;
 }
 nav ul{
   padding:0;
